@@ -27,11 +27,17 @@ Through this journey, I aim to:
 ## 📚 Topics Covered
 
 💡 **Version Control for ML**: Git, DVC  
+
 💡 **Model Deployment**: 
+
 💡 **Monitoring**: 
+
 💡 **CI/CD Pipelines**: GitHub Actions
+
 💡 **Data Versioning**: DVC
+
 💡 **Experiment Tracking**: MLflow  
+
 💡 **Cloud and Scalability**: AWS, GCP, Azure  
 
 ---
