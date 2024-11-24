@@ -48,6 +48,7 @@ Through this journey, I aim to:
 
 ```plaintext
 MLOps_Learning_Journey/
+├── 📂 images/             # images 
 ├── 📂 Notebooks/          # Jupyter notebooks for experiments
 ├── 📂 Code/               # Scripts for workflows and automation
 ├── 📂 Data/               # Sample datasets
