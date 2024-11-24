@@ -1,5 +1,7 @@
 # 🚀 MLOps Learning Journey 🌟
 
+![MLOps Concepts](.images/mlops.jpg)
+
 Welcome to my **MLOps Learning Repository**! This is where I document my exciting journey into the world of Machine Learning Operations (MLOps) – a fusion of machine learning and DevOps practices. This repo is packed with **projects**, **notes**, and **hands-on examples** to showcase my growing expertise in MLOps principles and workflows.
 
 ---
