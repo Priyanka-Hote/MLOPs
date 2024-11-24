@@ -73,4 +73,4 @@ Special thanks to:
 - The MLOps course instructors for their guidance.  
 - The amazing open-source tools and communities that make MLOps accessible.
 
----
+Thank you
