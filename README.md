@@ -58,7 +58,7 @@ MLOps_Learning_Journey/
 └── 📄 README.md           # This file
 
 
-## 🌟 Why This Repository?
+# 🌟 Why This Repository?
 
 - 📖 **Learn**: Dive into practical examples and explanations.  
 - 💻 **Implement**: See MLOps concepts applied in real workflows.  
@@ -66,7 +66,7 @@ MLOps_Learning_Journey/
 
 ---
 
-## 🤝 Acknowledgments
+# 🤝 Acknowledgments
 
 Special thanks to:
 - The MLOps course instructors for their guidance.  
